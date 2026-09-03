@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=220&section=header&text=Amithesh%20Sequeira&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Analyst%20%E2%80%A2%20VAPT%20Specialist%20%E2%80%A2%20AI%2FML%20Engineer&descSize=16&descColor=a0f0ff&descAlignY=78&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=220&section=header&text=Amithesh%20Sequeira&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Securing%20Networks%20%26%20Defending%20Systems&descSize=16&descColor=a0f0ff&descAlignY=78&fontAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Penetration+Tester+%7C+CTF+Runner-Up+%7C+NITK+3rd+Place;Building+federated+threat+intelligence+with+AI;Breaking+things+ethically.+Defending+everything+else.)](https://git.io/typing-svg)
 
