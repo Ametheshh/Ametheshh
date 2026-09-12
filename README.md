@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=220&section=header&text=Amithesh%20Sequeira&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Securing%20Networks%20and%20Defending%20Systems&descSize=16&descColor=a0f0ff&descAlignY=78&fontAlignY=55" alt="header" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=220&section=header&text=Amithesh%20Sequeira&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Analyst%20%E2%80%A2%20VAPT%20Specialist%20%E2%80%A2%20Network%20Security&descSize=16&descColor=a0f0ff&descAlignY=78&fontAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Penetration+Tester+%7C+CTF+Runner-Up+%7C+NITK+3rd+Place;Building+federated+threat+intelligence+with+AI;Breaking+things+ethically.+Defending+everything+else.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Penetration+Tester+%7C+CTF+Runner-Up+%7C+NITK+3rd+Place;VAPT+%7C+Network+Security+%7C+Zero+Trust+Architecture;Breaking+things+ethically.+Defending+everything+else.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## About
 
-B.Tech CS & Cyber Security student at **NMAMIT, Nitte University** (2023–2027 · CGPA 7.88) with hands-on VAPT internship experience and multiple national CTF podium finishes. I sit at the intersection of offensive security and applied ML — currently engineering a privacy-preserving federated learning framework for cross-organization threat intelligence.
+B.Tech CS & Cyber Security student at **NMAMIT, Nitte University** (2023–2027 · CGPA 7.88) passionate about offensive security, network defence, and understanding how systems break. I have hands-on VAPT experience on live production systems and multiple national CTF podium finishes — and I apply ML as a tool where it genuinely strengthens security, not as an identity.
 
 > **Currently:** Building `TrustMesh XDR` · Open to internships, research collaborations & CTF teams
 
@@ -38,14 +38,14 @@ B.Tech CS & Cyber Security student at **NMAMIT, Nitte University** (2023–2027 
 
 <br/>
 
-**AI / Machine Learning**
+**ML Applied to Security**
 
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)&nbsp;
 [![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://pytorch.org)&nbsp;
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://tensorflow.org)&nbsp;
 [![sklearn](https://skillicons.dev/icons?i=sklearn&theme=dark)](https://scikit-learn.org)
 
-`Federated Learning` &ensp; `SHAP` &ensp; `Isolation Forest` &ensp; `Autoencoders` &ensp; `Differential Privacy`
+`Anomaly Detection` &ensp; `Threat Classification` &ensp; `Isolation Forest` &ensp; `Federated Learning` &ensp; `SHAP`
 
 <br/>
 
@@ -276,7 +276,7 @@ Goes beyond character-class rules — applies information entropy, dictionary at
 
 <br/>
 
-*"Securing the perimeter. Training the models. Defending the network."*
+*"Break it to understand it. Understand it to defend it."*
 
 <br/>
 
